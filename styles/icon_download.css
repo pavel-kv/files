@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot?596qq');
-  src:  url('../fonts/icomoon.eot?596qq#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf?596qq') format('truetype'),
-    url('../fonts/icomoon.woff?596qq') format('woff'),
-    url('../fonts/icomoon.svg?596qq#icomoon') format('svg');
+  src:  url('https://github.com/pavel-kv/files/raw/main/Fonts/icomoon_download.eot?596qq');
+  src:  url('https://github.com/pavel-kv/files/raw/main/Fonts/icomoon_download.eot?596qq#iefix') format('embedded-opentype'),
+    url('https://github.com/pavel-kv/files/raw/main/Fonts/icomoon_download.ttf?596qq') format('truetype'),
+    url('https://github.com/pavel-kv/files/raw/main/Fonts/icomoon_download.woff?596qq') format('woff'),
+    url('https://github.com/pavel-kv/files/raw/main/Fonts/icomoon_download.svg?596qq#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
